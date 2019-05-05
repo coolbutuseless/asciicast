@@ -1,0 +1,117 @@
+.asciinema-theme-black-on-white .asciinema-terminal {
+  color: #000000;                    /* default text color */
+  background-color: #ffffff;         /* terminal background color */
+  border-color: #ffffff;
+}
+.asciinema-theme-black-on-white .fg-bg {    /* inverse for default text color */
+  color: #ffffff;
+}
+.asciinema-theme-black-on-white .bg-fg {    /* inverse for terminal background color */
+  background-color: #000000;
+}
+.asciinema-theme-black-on-white .fg-0 {
+  color: #272822;
+}
+.asciinema-theme-black-on-white .bg-0 {
+  background-color: #272822;
+}
+.asciinema-theme-black-on-white .fg-1 {
+  color: #f92672;
+}
+.asciinema-theme-black-on-white .bg-1 {
+  background-color: #f92672;
+}
+.asciinema-theme-black-on-white .fg-2 {
+  color: #a6e22e;
+}
+.asciinema-theme-black-on-white .bg-2 {
+  background-color: #a6e22e;
+}
+.asciinema-theme-black-on-white .fg-3 {
+  color: #f4bf75;
+}
+.asciinema-theme-black-on-white .bg-3 {
+  background-color: #f4bf75;
+}
+.asciinema-theme-black-on-white .fg-4 {
+  color: #66d9ef;
+}
+.asciinema-theme-black-on-white .bg-4 {
+  background-color: #66d9ef;
+}
+.asciinema-theme-black-on-white .fg-5 {
+  color: #ae81ff;
+}
+.asciinema-theme-black-on-white .bg-5 {
+  background-color: #ae81ff;
+}
+.asciinema-theme-black-on-white .fg-6 {
+  color: #a1efe4;
+}
+.asciinema-theme-black-on-white .bg-6 {
+  background-color: #a1efe4;
+}
+.asciinema-theme-black-on-white .fg-7 {
+  color: #f8f8f2;
+}
+.asciinema-theme-black-on-white .bg-7 {
+  background-color: #f8f8f2;
+}
+.asciinema-theme-black-on-white .fg-8 {
+  color: #75715e;
+}
+.asciinema-theme-black-on-white .bg-8 {
+  background-color: #75715e;
+}
+.asciinema-theme-black-on-white .fg-9 {
+  color: #f92672;
+}
+.asciinema-theme-black-on-white .bg-9 {
+  background-color: #f92672;
+}
+.asciinema-theme-black-on-white .fg-10 {
+  color: #a6e22e;
+}
+.asciinema-theme-black-on-white .bg-10 {
+  background-color: #a6e22e;
+}
+.asciinema-theme-black-on-white .fg-11 {
+  color: #f4bf75;
+}
+.asciinema-theme-black-on-white .bg-11 {
+  background-color: #f4bf75;
+}
+.asciinema-theme-black-on-white .fg-12 {
+  color: #66d9ef;
+}
+.asciinema-theme-black-on-white .bg-12 {
+  background-color: #66d9ef;
+}
+.asciinema-theme-black-on-white .fg-13 {
+  color: #ae81ff;
+}
+.asciinema-theme-black-on-white .bg-13 {
+  background-color: #ae81ff;
+}
+.asciinema-theme-black-on-white .fg-14 {
+  color: #a1efe4;
+}
+.asciinema-theme-black-on-white .bg-14 {
+  background-color: #a1efe4;
+}
+.asciinema-theme-black-on-white .fg-15 {
+  color: #f9f8f5;
+}
+.asciinema-theme-black-on-white .bg-15 {
+  background-color: #f9f8f5;
+}
+.asciinema-theme-black-on-white .fg-8,
+.asciinema-theme-black-on-white .fg-9,
+.asciinema-theme-black-on-white .fg-10,
+.asciinema-theme-black-on-white .fg-11,
+.asciinema-theme-black-on-white .fg-12,
+.asciinema-theme-black-on-white .fg-13,
+.asciinema-theme-black-on-white .fg-14,
+.asciinema-theme-black-on-white .fg-15 {
+  font-weight: bold;
+}
